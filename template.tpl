@@ -20,7 +20,7 @@ ___INFO___
     "displayName": ""
   },
   "description": "Secure Privacy Consent Banner",
-   "containerContexts": [
+  "containerContexts": [
     "WEB"
   ]
 }
@@ -52,7 +52,7 @@ inkjectScript(url,data.gtmOnSuccess,data.gtmOnFailure);
  
 
 // Call data.gtmOnSuccess when the tag is finished.
-data.gtmOnSuccess();
+//data.gtmOnSuccess();
 
 
 ___WEB_PERMISSIONS___
@@ -126,6 +126,6 @@ scenarios:
 
 ___NOTES___
 
-Created on 3/14/2022, 5:56:34 PM
+Created on 3/14/2022, 1:28:48 PM
 
 
