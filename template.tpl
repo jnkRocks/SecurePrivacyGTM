@@ -52,7 +52,7 @@ inkjectScript(url,data.gtmOnSuccess,data.gtmOnFailure);
  
 
 // Call data.gtmOnSuccess when the tag is finished.
-//data.gtmOnSuccess();
+data.gtmOnSuccess();
 
 
 ___WEB_PERMISSIONS___
