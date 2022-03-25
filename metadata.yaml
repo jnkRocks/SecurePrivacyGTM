@@ -1,0 +1,5 @@
+homepage: "https://secureprivacy.ai"
+documentation: "https://support.secureprivacy.ai/support/home"
+versions:
+  - sha: b10d27e78ee040131145b1ab885f026ac750175e
+    changeNotes: Initial release.
