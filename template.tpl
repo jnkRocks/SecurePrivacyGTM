@@ -1,12 +1,4 @@
-﻿___TERMS_OF_SERVICE___
-
-By creating or modifying this file you agree to Google Tag Manager's Community
-Template Gallery Developer Terms of Service available at
-https://developers.google.com/tag-manager/gallery-tos (or such other URL as
-Google may provide), as modified from time to time.
-
-
-___INFO___
+﻿___INFO___
 
 {
   "type": "TAG",
@@ -14,13 +6,13 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Secure Privacy",
-  "categories": ["PERSONALIZATION"]
+  "categories": ["PERSONALIZATION"],
   "brand": {
     "id": "brand_dummy",
     "displayName": ""
   },
   "description": "Secure Privacy Consent Banner",
-  "containerContexts": [
+   "containerContexts": [
     "WEB"
   ]
 }
@@ -52,7 +44,7 @@ inkjectScript(url,data.gtmOnSuccess,data.gtmOnFailure);
  
 
 // Call data.gtmOnSuccess when the tag is finished.
-//data.gtmOnSuccess();
+data.gtmOnSuccess();
 
 
 ___WEB_PERMISSIONS___
@@ -126,6 +118,6 @@ scenarios:
 
 ___NOTES___
 
-Created on 3/14/2022, 1:28:48 PM
+Created on 3/14/2022, 5:56:34 PM
 
 
